@@ -48,7 +48,7 @@ For Software:
 For Software:
 
 # Screenshots
-![Screenshot1](Index.pngAdd screenshot 1 here with proper name)
+![Screenshot1](Index.png)
 *Users select job role and experience level*
 
 ![Screenshot2](Interview.png.png)
