@@ -47,7 +47,7 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots
 ![Screenshot1](Index.pngAdd screenshot 1 here with proper name)
 *Users select job role and experience level*
 
